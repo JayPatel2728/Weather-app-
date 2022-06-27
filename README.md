@@ -1,0 +1,1 @@
+This is my first use of an API, its used to get data from the open weather API and showcase it in my weather app.
